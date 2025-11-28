@@ -1,5 +1,6 @@
-#include "convert.hpp"
-#include "search_server.hpp"
+#include <convert.h>
+#include <inv_index.h>
+#include <search_server.h>
 #include <iostream>
 
 int main() {
