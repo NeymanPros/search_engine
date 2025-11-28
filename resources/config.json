@@ -1,0 +1,11 @@
+{
+	"config": {
+		"name": "search_engine",
+		"version": "0.1",
+		"max_responses": 5
+	},
+	"files": [
+		"../resources/files/file001.txt",
+		"../resources/files/file002.txt"
+	]
+}
